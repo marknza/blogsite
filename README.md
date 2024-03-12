@@ -1,2 +1,3 @@
 # blogsite
-Customize this blog site to create your own
+
+Customize this blog site to create your own.
