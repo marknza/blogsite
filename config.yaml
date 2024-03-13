@@ -14,6 +14,8 @@ menu:
   main:
     - name: About
       url: /about/
+    - name: Research
+      url: /categories/Research
     - name: GitHub
       url: https://github.com/rstudio/blogdown
     - name: Twitter
