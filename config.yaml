@@ -16,10 +16,10 @@ menu:
       url: /about/
     - name: Research
       url: /categories/Research
-    - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+    - name: Blog
+      url: /categories/Blog
+    - name: Teaching
+      url: /categories/Teaching
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
